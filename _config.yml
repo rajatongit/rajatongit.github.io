@@ -1,2 +1,3 @@
 name: Rajat Chhabra, Horrible Coder ;)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
