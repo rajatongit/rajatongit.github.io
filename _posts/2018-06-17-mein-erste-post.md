@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tribute to Hank Quinlan"
+title: "Tribute to JONATHAN MCGLONE"
 date: 2018-06-17
 ---
 
