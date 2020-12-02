@@ -1,5 +1,7 @@
 Are you gittin' me?
 
+who likes bugs anyway?
+
 how to stage files on to a git repo:
 https://githowto.com/staging_changes
 
