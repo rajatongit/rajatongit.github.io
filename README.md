@@ -1,3 +1,5 @@
+Are you gittin' me?
+
 how to stage files on to a git repo:
 https://githowto.com/staging_changes
 
